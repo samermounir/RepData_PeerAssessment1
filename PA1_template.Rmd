@@ -13,7 +13,7 @@ library(knitr)
 opts_chunk$set(echo = TRUE) 
 library (plyr)
 library(dplyr) ## Loading the dplyr Package
-setwd ("C:\\Personal\\Coursera\\RDir\\5Reprd") ## Setting the Path to the working directory
+setwd ("C:\\Users\\SA186014\\Documents\\GitHub\\RepData_PeerAssessment1\\") ## Setting the Path to the working directory
 ```
 * Download the file into your R working Directy
 * Unzip the file into the same Directory
